@@ -1,2 +1,2 @@
 # littleproject
-some little demo
+some little demos
